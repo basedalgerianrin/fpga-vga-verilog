@@ -5,9 +5,9 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
+This is my System-on-Chip Design & Verification mini project blog. it involves manipulationg code to display shaped, colours or images onto a screen from the Basys3 Portal to the Vivado Design Suite board.
 
-I am adding a test sentence here at 13:24 on 03/12/24.
+I have made my first entry here at 16:00 on 21/10/26.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
