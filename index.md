@@ -11,7 +11,7 @@ I have made my first entry here at 16:00 on 21/10/26.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+My project is a recreation of a pixel art using Image ROM method. It utilizes a row by row approach to color in certain blocks of pixels. Firstly is to draw in and color the pixels, later there will be a small animation of the art of a purple flame like emitions. keeping everyhting simple since this is a relitively alrg art.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
