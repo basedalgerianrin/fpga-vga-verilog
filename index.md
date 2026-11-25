@@ -43,7 +43,7 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage1.png">
+<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_144426322_iOS.jpg">
 
 this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate. the clk ticks at 25Mhz and every tick gives a new image that 
 
