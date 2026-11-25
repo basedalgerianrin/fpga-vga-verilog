@@ -45,6 +45,11 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstration**
 <img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_144426322_iOS.jpg">
 
+<video width="100%" controls autoplay loop muted playsinline>
+  <source src="https://basedalgerianrin.github.io/fpga-vga-verilog/docs/assets/images/DemoAnimation.mp4" type="video/mp4">
+  <a href="https://basedalgerianrin.github.io/fpga-vga-verilog/docs/assets/images/DemoAnimation.mp4">Watch the demo video</a>
+</video>
+
 this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate. the clk ticks at 25Mhz and every tick gives a new image that 
 
 <img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage2.png.png">
