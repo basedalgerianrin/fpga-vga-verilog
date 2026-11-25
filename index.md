@@ -30,24 +30,24 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 instead of showing 
 ### **Simulation**
 
-<img src = >
+<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Simu.png">
 
 
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
 ### **Synthesis**
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 164100">
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 164127">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/syn.png">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/imp.png">
 
 
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_144426322_iOS.jpg">
+<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage1.png">
 
 this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate. the clk ticks at 25Mhz and every tick gives a new image that 
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 165120">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage2.png">
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
