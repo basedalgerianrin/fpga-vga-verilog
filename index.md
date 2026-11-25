@@ -36,15 +36,15 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 
 ### **Synthesis**
 
-<img src= "C:\Users\SamiHammar-STUDENT\OneDrive - Atlantic TU\Year 3\Chip Design\fpga-vga-verilog\assets\images\20261125_145517926_iOS.jpg">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/assets\images\20261125_145517926_iOS.jpg">
 
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-<img src = "C:\Users\SamiHammar-STUDENT\OneDrive - Atlantic TU\Year 3\Chip Design\fpga-vga-verilog\assets\images\20261125_144426322_iOS.jpg">
+<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/assets/images/20261125_144426322_iOS.jpg">
 
 this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate.
 
-<img src= "C:\Users\SamiHammar-STUDENT\OneDrive - Atlantic TU\Year 3\Chip Design\fpga-vga-verilog\assets\images\20261125_145739102_iOS.jpg">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/assets\images\20261125_145739102_iOS.jpg">
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
