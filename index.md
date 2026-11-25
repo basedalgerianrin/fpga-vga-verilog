@@ -13,7 +13,7 @@ I have made my first entry here at 16:00 on 21/10/26.
 ### **Project Set-Up**
 My project is a recreation of a pixel art using Image ROM method. It utilizes a row by row approach to color in certain blocks of pixels. Firstly is to draw in and color the pixels, later there will be a small animation of the art of a purple outline emitions. keeping everyhting simple since this is a relitively large art.
 
-<img src="https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/docs/assets/images/Screenshot 2026-11-25 154755.png.png">
+<img src="https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage1.png.png">
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
