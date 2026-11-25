@@ -13,7 +13,7 @@ I have made my first entry here at 16:00 on 21/10/26.
 ### **Project Set-Up**
 My project is a recreation of a pixel art using Image ROM method. It utilizes a row by row approach to color in certain blocks of pixels. Firstly is to draw in and color the pixels, later there will be a small animation of the art of a purple outline emitions. keeping everyhting simple since this is a relitively large art.
 
-<img src="https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/docs/assets/images/Screenshot 2026-11-25 154755.png">
+<img src="https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/docs/assets/images/Screenshot 2026-11-25 154755.png.png">
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
@@ -30,15 +30,15 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 instead of showing 
 ### **Simulation**
 
-<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Simu.png">
+<img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Simu.png.png">
 
 
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
 ### **Synthesis**
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/syn.png">
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/imp.png">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/syn.png.png">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/imp.png.png">
 
 
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
@@ -47,7 +47,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate. the clk ticks at 25Mhz and every tick gives a new image that 
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage2.png">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/DemoImage2.png.png">
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
