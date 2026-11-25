@@ -11,7 +11,7 @@ I have made my first entry here at 16:00 on 21/10/26.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-My project is a recreation of a pixel art using Image ROM method. It utilizes a row by row approach to color in certain blocks of pixels. Firstly is to draw in and color the pixels, later there will be a small animation of the art of a purple flame like emitions. keeping everyhting simple since this is a relitively alrg art.
+My project is a recreation of a pixel art using Image ROM method. It utilizes a row by row approach to color in certain blocks of pixels. Firstly is to draw in and color the pixels, later there will be a small animation of the art of a purple outline emitions. keeping everyhting simple since this is a relitively large art.
 
 <img src="https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/docs/assets/images/Screenshot 2026-11-25 154755.png">
 
@@ -37,15 +37,17 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 
 ### **Synthesis**
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_145517926_iOS.jpg">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 164100">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 164127">
+
 
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 <img src = "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_144426322_iOS.jpg">
 
-this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate.
+this is a 64x768 pizel screen generated using individual pixels that are 3x3 pixels big.  Here is the divided art to demonstrate. the clk ticks at 25Mhz and every tick gives a new image that 
 
-<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/20261125_145739102_iOS.jpg">
+<img src= "https://raw.githubusercontent.com/basedalgerianrin/fpga-vga-verilog/main/docs/assets/images/Screenshot 2026-11-25 165120">
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
